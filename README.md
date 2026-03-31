@@ -37,16 +37,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MAUZZAM123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=MAUZZAM123&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAUZZAM123&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## 📌 Featured Interests:
 ✔ Data Analysis & Visualization  
 ✔ Business Intelligence Dashboards  
@@ -63,3 +53,14 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=MAUZZAM123&icon=9&color=0)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MAUZZAM123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MAUZZAM123&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAUZZAM123&theme=dark&hide_border=false&layout=compact)
+
+---
+
+
